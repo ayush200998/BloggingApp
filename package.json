@@ -29,7 +29,7 @@
     "mime": "^2.4.4",
     "mongodb": "^3.5.2",
     "nodemon": "^2.0.2",
-    "sanitize-html": "^1.22.0",
+    "sanitize-html": "^2.3.2",
     "socket.io": "^2.3.0",
     "validator": "^12.2.0",
     "webpack": "^4.41.6",
