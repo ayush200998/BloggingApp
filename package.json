@@ -24,7 +24,7 @@
     "ejs-lint": "^1.0.1",
     "express-session": "^1.17.0",
     "jsonwebtoken": "^8.5.1",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "md5": "^2.2.1",
     "mime": "^2.4.4",
     "mongodb": "^3.5.2",
